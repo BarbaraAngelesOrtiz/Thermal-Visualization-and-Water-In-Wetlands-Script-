@@ -1,6 +1,6 @@
 # Thermal Visualization and Water In Wetlands Script 
 
-[Show script](README.md) or [download](script.js)
+[Show](README.md) script or [download](script.js)
 
  ## Evaluate and visualize
  
