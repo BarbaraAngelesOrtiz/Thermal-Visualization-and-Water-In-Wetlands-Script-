@@ -12,7 +12,10 @@ In the midst of an unprecedented heat wave and ongoing drought, northeastern Arg
 
  ## Details of the script
  
+ ![AWS_LOTL1-500618976762302-timelapse](https://user-images.githubusercontent.com/105976212/189212267-45dd173d-4b0d-45fd-8684-ab82434e7f10.gif)
+ 
  ## Author of the script
  
  ## References
  
+
