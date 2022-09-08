@@ -14,6 +14,11 @@ In mid-January 2022, sweltering heat gripped central South America, with tempera
 
  ## Details of the script
  
+ The images acquired by the Operational Land Imager-2 (OLI-2) on Landsat 9 on February 16, 2022, show the scorched fields and heavy smoke from the multiple wildfires still burning near Iberá National Park.[1]
+ 
+![argentinafires_1_lrg](https://user-images.githubusercontent.com/105976212/189236884-b5065295-0c54-4802-b7c7-0c3be17797d6.jpg)
+![argentinafires_2_lrg](https://user-images.githubusercontent.com/105976212/189236901-e0b53e5c-d5f4-4236-b71c-7baa9d4004ab.jpg)
+
  ![AWS_LOTL1-500618976762302-timelapse](https://user-images.githubusercontent.com/105976212/189212267-45dd173d-4b0d-45fd-8684-ab82434e7f10.gif)
  
  ## Author of the script
