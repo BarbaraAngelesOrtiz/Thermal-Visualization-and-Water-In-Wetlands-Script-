@@ -20,7 +20,7 @@ In mid-January 2022, sweltering heat gripped central South America, with tempera
 
 ![aFig2_16-2-22](https://user-images.githubusercontent.com/105976212/189244008-1e9dc89c-1a8d-4bb5-a97c-894c9d0b13d2.png)
 
-![aFig1_8-2-22](https://user-images.githubusercontent.com/105976212/189244091-82701b8b-b6e2-4c29-b324-525e4396d804.png)
+![aFig1_8-2-22](https://user-images.githubusercontent.com/105976212/189244163-d3615999-89f3-470f-a5e8-af032572e1e7.png)
 
 
 ![AWS_LOTL1-500618976762302-timelapse](https://user-images.githubusercontent.com/105976212/189212267-45dd173d-4b0d-45fd-8684-ab82434e7f10.gif)
