@@ -14,7 +14,12 @@ La Niña coupling of the atmosphere and ocean alters global atmospheric circulat
 
 Since the fires began in December, more than 520,000 hectares (1.3 million acres) have burned, killing wildlife and livestock, decimating pasturelands, and destroying crops such as yerba mate and rice. [1] On February 7, 2022, Corrientes was declared a state of emergency and an agricultural disaster.
 
-Through the Sentinel Hub EO Browser tool with its personalized script, the wetland humidity data was related to the surface temperature, in order to prevent and be able to carry out the necessary tasks to minimize this natural disaster, which has drought and the protection of wetlands as protagonists.  
+Through the Sentinel Hub EO Browser tool, these 2 custom scripts are programmed, using satellite data from Landsat 8-9 OLI-TIRS Collection 2 Level 1 Data. Where through the fusion of data it is possible to observe in a single graph the temperature of the surface and the humidity of the wetlands. The aim is to prevent and be able to carry out the necessary tasks to minimize this natural disaster, whose protagonists are drought and the protection of wetlands.
+
+####Thermal Visualization Script: This heat shield is based on band 10. At the central wavelength of 10895nm, it measures in the thermal infrared or TIR. Instead of measuring the temperature of the air, as weather stations do, band 10 reports on the ground, which is usually much hotter. Thermal band 10 is useful for providing surface temperatures and is collected at 100 meter resolution.[5]
+
+WIW is a remote sensing tool for monitoring water in wetlands. One of the main challenges is to detect the water under the vegetation cover and wetlands are usually characterized by the presence of emergent plants of variable height and density. The reflectance values of the corresponding pixels of the optical spectral bands of the Landsat sensors were used as reference. The overall accuracy of the water maps constructed using the WIW ranged from 89% to 94% for both the training and validation samples. Landsat 8: WIW = NIR = 0.1735 and SWIR2 = 0.1035 [6]
+
 
  ## Details of the script
  
@@ -30,7 +35,7 @@ Point 4 and 5 are critical fire points. If we analyze the area marked by point 6
 
 ![aFig1_8-2-22](https://user-images.githubusercontent.com/105976212/189244163-d3615999-89f3-470f-a5e8-af032572e1e7.png)
 
-In addition, the area analyzed from November 2021 to March 2022 is observed below, where it is seen how the humidity of the wetlands and the temperature on the surface vary.
+In addition, Timelapse of the area analyzed from November 2021 to March 2022 is observed below (week interval), where it is seen how the humidity of the wetlands and the temperature on the surface vary. 
 
 ![AWS_LOTL1-500618976762302-timelapse](https://user-images.githubusercontent.com/105976212/189212267-45dd173d-4b0d-45fd-8684-ab82434e7f10.gif)
  
@@ -41,12 +46,16 @@ In addition, the area analyzed from November 2021 to March 2022 is observed belo
  
  ## References
  
- [1] Earthobservatory Nasa March 01 2022  [Earthobservatory.nasa.gov/Wildfires Ravage Corrientes, Argentina](https://earthobservatory.nasa.gov/images/149478/wildfires-ravage-corrientes-argentina)
+ [1] Earthobservatory Nasa, March 01 2022,  [Earthobservatory.nasa.gov/Wildfires Ravage Corrientes, Argentina](https://earthobservatory.nasa.gov/images/149478/wildfires-ravage-corrientes-argentina)
  
- [2]  Earthobservatory Nasa January 11 2022, 2022[Earthobservatory.nasa.gov/Southern Hemisphere Scorchers](https://earthobservatory.nasa.gov/images/149331/southern-hemisphere-scorchers)
+ [2]  Earthobservatory Nasa, January 11 2022, 2022[Earthobservatory.nasa.gov/Southern Hemisphere Scorchers](https://earthobservatory.nasa.gov/images/149331/southern-hemisphere-scorchers)
  
- [3] Earthobservatory Nasa December 01 2021  [Earthobservatory.nasa.gov/La Niña Returns for a Second Winter(https://earthobservatory.nasa.gov/images/149201/la-nina-returns-for-a-second-winter)
+ [3] Earthobservatory Nasa, December 01 2021,  [Earthobservatory.nasa.gov/La Niña Returns for a Second Winter](https://earthobservatory.nasa.gov/images/149201/la-nina-returns-for-a-second-winter)
  
- [4] Mohor Gartner 2019 [Land Surface Temperature (LST) Mapping Script]([https://earthobservatory.nasa.gov/images/149478/wildfires-ravage-corrientes-argentina](https://github.com/sentinel-hub/custom-scripts/tree/master/landsat-8/land_surface_temperature_mapping))
+ [4] Mohor Gartner, 2019, [Land Surface Temperature (LST) Mapping Script]([https://earthobservatory.nasa.gov/images/149478/wildfires-ravage-corrientes-argentina](https://github.com/sentinel-hub/custom-scripts/tree/master/landsat-8/land_surface_temperature_mapping))
+ 
+ [5] Sentinel Hub [About Landsat 8-9 OLI-TIRS Collection 2 Level 1 Data](https://docs.sentinel-hub.com/api/latest/data/landsat-8/)
+ 
+ [6] Sentinels Copernicus, 05 September 2019, ([Track changes in seasonal water of wetlands](https://sentinels.copernicus.eu/web/success-stories/-/copernicus-sentinel-2-helps-track-changes-in-seasonal-water-of-wetlands)
 
 
