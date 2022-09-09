@@ -25,7 +25,6 @@ Wetlands are areas that remain in flooded conditions or with soil saturated with
 
 WIW is a remote sensing tool for monitoring water in wetlands. One of the main challenges is to detect the water under the vegetation cover and wetlands are usually characterized by the presence of emergent plants of variable height and density. The reflectance values of the corresponding pixels of the optical spectral bands of the Landsat sensors were used as reference. The overall accuracy of the water maps constructed using the WIW ranged from 89% to 94% for both the training and validation samples. Landsat 8: WIW = NIR = 0.1735 and SWIR2 = 0.1035 [6]
 
-
  ## Details of the script
  
  The images acquired by the Operational Land Imager-2 (OLI-2) on Landsat 9 on February 16, 2022, show the scorched fields and heavy smoke from the multiple wildfires still burning near Iberá National Park.[1]
@@ -44,7 +43,6 @@ In addition, Timelapse of the area analyzed from November 2021 to March 2022 is 
 
 ![AWS_LOTL1-500618976762302-timelapse](https://user-images.githubusercontent.com/105976212/189212267-45dd173d-4b0d-45fd-8684-ab82434e7f10.gif)
  
-
  ## Author of the script
  
  Barbara de los Angeles Ortiz
@@ -57,11 +55,15 @@ In addition, Timelapse of the area analyzed from November 2021 to March 2022 is 
  
 [3] Earthobservatory Nasa, December 01 2021,  [Earthobservatory.nasa.gov/La Niña Returns for a Second Winter](https://earthobservatory.nasa.gov/images/149201/la-nina-returns-for-a-second-winter)
  
-[4] Mohor Gartner, 2019, [Land Surface Temperature (LST) Mapping Script]([https://earthobservatory.nasa.gov/images/149478/wildfires-ravage-corrientes-argentina](https://github.com/sentinel-hub/custom-scripts/tree/master/landsat-8/land_surface_temperature_mapping))
+[4] Mohor Gartner, 2019, [Land Surface Temperature (LST) Mapping Script](https://github.com/sentinel-hub/custom-scripts/tree/master/landsat-8/land_surface_temperature_mapping)
  
 [5] Sentinel Hub [About Landsat 8-9 OLI-TIRS Collection 2 Level 1 Data](https://docs.sentinel-hub.com/api/latest/data/landsat-8/)
  
 [6] Sentinels Copernicus, 05 September 2019, ([Track changes in seasonal water of wetlands](https://sentinels.copernicus.eu/web/success-stories/-/copernicus-sentinel-2-helps-track-changes-in-seasonal-water-of-wetlands)
 
 [7] Government of Argentina [What are wetlands and why is it important to conserve them?](https://www.argentina.gob.ar/ambiente/contenidos/humedales)
+
+[8] USGS EROS Archive, March 4, 2020, [Landsat 8-9 Operational Land Imager and Thermal Infrared Sensor Collection 2 Level-1 Data](https://www.usgs.gov/centers/eros/science/usgs-eros-archive-landsat-archives-landsat-8-9-operational-land-imager-and)
+
+[9] Hattab-Amany-Lamia, December 2018 [Monitoring and assessment of urban heat islands over the Southern region of Cairo Governorate, Egypt](https://www.sciencedirect.com/science/article/pii/S1110982317301114#b0115)
 
