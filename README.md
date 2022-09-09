@@ -31,11 +31,11 @@ WIW is a remote sensing tool for monitoring water in wetlands. One of the main c
  
 ![Figura 0](https://user-images.githubusercontent.com/105976212/189240786-2bac29db-3056-4476-8ca7-b93c881e84ce.jpg)
 
-Here you can see in detail different critical points of February 16, 2022, being 1, 2 and 3 the main sources of fire. Script A is the one that indicates temperature and humidity of the wetlands, where the darker the red color, the higher the temperature. Script C is a temperature impact analysis reference, this indicates higher temperature with white color. [4]
+Here in detail different critical points of February 16, 2022, being 1, 2 and 3 the main sources of fire. Script A is the one that indicates temperature and humidity of the wetlands, where the darker the red color, the higher the temperature. Script C is a temperature impact analysis reference, this indicates higher temperature with white color. [4]
 
 ![aFig2_16-2-22](https://user-images.githubusercontent.com/105976212/189244008-1e9dc89c-1a8d-4bb5-a97c-894c9d0b13d2.png)
 
-Point 4 and 5 are critical fire points. If we analyze the area marked by point 6, we can see that on February 8, 2022 the temperature on the surface was high and if we compare the humidity of the area with the previous scripts on February 16, there is a drought mark causing more outbreaks of forest fire.
+Point 4 and 5 are critical fire points. In the analyze of the area marked by point 6, it is possible see that on February 8, 2022 the temperature on the surface was high and if we compare the humidity of the area with the previous scripts on February 16, there is a drought mark causing more outbreaks of forest fire.
 
 ![aFig1_8-2-22](https://user-images.githubusercontent.com/105976212/189244163-d3615999-89f3-470f-a5e8-af032572e1e7.png)
 
