@@ -16,6 +16,10 @@ Since the fires began in December, more than 520,000 hectares (1.3 million acres
 
 Through the Sentinel Hub EO Browser tool, these 2 custom scripts are programmed, using satellite data from Landsat 8-9 OLI-TIRS Collection 2 Level 1 Data. Where through the fusion of data it is possible to observe in a single graph the temperature of the surface and the humidity of the wetlands. The aim is to prevent and be able to carry out the necessary tasks to minimize this natural disaster, whose protagonists are drought and the protection of wetlands.
 
+The images acquired by the Operational Land Imager-2 (OLI-2) on Landsat 9 on February 16, 2022, show the scorched fields and heavy smoke from the multiple wildfires still burning near Iberá National Park.[1]
+ 
+![Figura 0](https://user-images.githubusercontent.com/105976212/189240786-2bac29db-3056-4476-8ca7-b93c881e84ce.jpg)
+
 ### Thermal Visualization Script: 
 This heat shield is based on band 10. At the central wavelength of 10895nm, it measures in the thermal infrared or TIR. Instead of measuring the temperature of the air, as weather stations do, band 10 reports on the ground, which is usually much hotter. Thermal band 10 is useful for providing surface temperatures and is collected at 100 meter resolution.[5]
 
@@ -27,11 +31,7 @@ WIW is a remote sensing tool for monitoring water in wetlands. One of the main c
 
  ## Details of the script
  
- The images acquired by the Operational Land Imager-2 (OLI-2) on Landsat 9 on February 16, 2022, show the scorched fields and heavy smoke from the multiple wildfires still burning near Iberá National Park.[1]
- 
-![Figura 0](https://user-images.githubusercontent.com/105976212/189240786-2bac29db-3056-4476-8ca7-b93c881e84ce.jpg)
-
-Here in detail different critical points of February 16, 2022, being 1, 2 and 3 the main sources of fire. Script A is the one that indicates temperature and humidity of the wetlands, where the darker the red color, the higher the temperature. Script C is a temperature impact analysis reference, this indicates higher temperature with white color. [4]
+ Here in detail different critical points of February 16, 2022, being 1, 2 and 3 the main sources of fire. Script A is the one that indicates temperature and humidity of the wetlands, where the darker the red color, the higher the temperature. Script C is a temperature impact analysis reference, this indicates higher temperature with white color. [4]
 
 ![aFig2_16-2-22](https://user-images.githubusercontent.com/105976212/189244008-1e9dc89c-1a8d-4bb5-a97c-894c9d0b13d2.png)
 
