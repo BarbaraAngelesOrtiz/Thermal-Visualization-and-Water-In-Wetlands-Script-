@@ -16,8 +16,10 @@ Since the fires began in December, more than 520,000 hectares (1.3 million acres
 
 Through the Sentinel Hub EO Browser tool, these 2 custom scripts are programmed, using satellite data from Landsat 8-9 OLI-TIRS Collection 2 Level 1 Data. Where through the fusion of data it is possible to observe in a single graph the temperature of the surface and the humidity of the wetlands. The aim is to prevent and be able to carry out the necessary tasks to minimize this natural disaster, whose protagonists are drought and the protection of wetlands.
 
-####Thermal Visualization Script: This heat shield is based on band 10. At the central wavelength of 10895nm, it measures in the thermal infrared or TIR. Instead of measuring the temperature of the air, as weather stations do, band 10 reports on the ground, which is usually much hotter. Thermal band 10 is useful for providing surface temperatures and is collected at 100 meter resolution.[5]
+#### Thermal Visualization Script: 
+This heat shield is based on band 10. At the central wavelength of 10895nm, it measures in the thermal infrared or TIR. Instead of measuring the temperature of the air, as weather stations do, band 10 reports on the ground, which is usually much hotter. Thermal band 10 is useful for providing surface temperatures and is collected at 100 meter resolution.[5]
 
+#### Water In Wetlands Script:
 WIW is a remote sensing tool for monitoring water in wetlands. One of the main challenges is to detect the water under the vegetation cover and wetlands are usually characterized by the presence of emergent plants of variable height and density. The reflectance values of the corresponding pixels of the optical spectral bands of the Landsat sensors were used as reference. The overall accuracy of the water maps constructed using the WIW ranged from 89% to 94% for both the training and validation samples. Landsat 8: WIW = NIR = 0.1735 and SWIR2 = 0.1035 [6]
 
 
