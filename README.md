@@ -59,7 +59,7 @@ In addition, Timelapse of the area analyzed from November 2021 to March 2022 is 
  
 [5] Sentinel Hub [About Landsat 8-9 OLI-TIRS Collection 2 Level 1 Data](https://docs.sentinel-hub.com/api/latest/data/landsat-8/)
  
-[6] Sentinels Copernicus, 05 September 2019, ([Track changes in seasonal water of wetlands](https://sentinels.copernicus.eu/web/success-stories/-/copernicus-sentinel-2-helps-track-changes-in-seasonal-water-of-wetlands)
+[6] Sentinels Copernicus, 05 September 2019, [Track changes in seasonal water of wetlands](https://sentinels.copernicus.eu/web/success-stories/-/copernicus-sentinel-2-helps-track-changes-in-seasonal-water-of-wetlands)
 
 [7] Government of Argentina [What are wetlands and why is it important to conserve them?](https://www.argentina.gob.ar/ambiente/contenidos/humedales)
 
