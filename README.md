@@ -22,7 +22,7 @@ Through the Sentinel Hub EO Browser tool with its personalized script, the wetla
  
 ![Figura 0](https://user-images.githubusercontent.com/105976212/189240786-2bac29db-3056-4476-8ca7-b93c881e84ce.jpg)
 
-Here you can see in detail different critical points of February 16, 2022, being 1, 2 and 3 the main sources of fire. Script A is the one that indicates temperature and humidity of the wetlands, where the darker the red color, the higher the temperature. Script C indicates higher temperature with white color.
+Here you can see in detail different critical points of February 16, 2022, being 1, 2 and 3 the main sources of fire. Script A is the one that indicates temperature and humidity of the wetlands, where the darker the red color, the higher the temperature. Script C is a temperature impact analysis reference, this indicates higher temperature with white color. [4]
 
 ![aFig2_16-2-22](https://user-images.githubusercontent.com/105976212/189244008-1e9dc89c-1a8d-4bb5-a97c-894c9d0b13d2.png)
 
@@ -45,7 +45,7 @@ In addition, the area analyzed from November 2021 to March 2022 is observed belo
  
  [2]  Earthobservatory Nasa January 11 2022, 2022[Earthobservatory.nasa.gov/Southern Hemisphere Scorchers](https://earthobservatory.nasa.gov/images/149331/southern-hemisphere-scorchers)
  
- [3] Earthobservatory Nasa December 01 2021  [Earthobservatory.nasa.gov/La Niña Returns for a Second Winter]([https://earthobservatory.nasa.gov/images/149478/wildfires-ravage-corrientes-argentina](https://earthobservatory.nasa.gov/images/149201/la-nina-returns-for-a-second-winter))
+ [3] Earthobservatory Nasa December 01 2021  [Earthobservatory.nasa.gov/La Niña Returns for a Second Winter(https://earthobservatory.nasa.gov/images/149201/la-nina-returns-for-a-second-winter)
  
  [4] Mohor Gartner 2019 [Land Surface Temperature (LST) Mapping Script]([https://earthobservatory.nasa.gov/images/149478/wildfires-ravage-corrientes-argentina](https://github.com/sentinel-hub/custom-scripts/tree/master/landsat-8/land_surface_temperature_mapping))
 
