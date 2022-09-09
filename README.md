@@ -8,9 +8,13 @@
 
  ## General description of the script
  
-In the midst of an unprecedented heat wave and ongoing drought, northeastern Argentina suffered a series of forest fires in nature reserves and fields. Through the Sentinel Hub EO Browser tool with its personalized script, the wetland humidity data was related to the surface temperature, in order to prevent and be able to carry out the necessary tasks to minimize this natural disaster, which has drought and the protection of wetlands as protagonists.  
+In the midst of an unprecedented heat wave and ongoing drought, northeastern Argentina suffered a series of forest fires in nature reserves and fields. In mid-January 2022, sweltering heat gripped central South America and temperatures soared to more than 40°C (104°F). At the time, Argentina was the hottest place on the planet.[2] 
 
-In mid-January 2022, sweltering heat gripped central South America, with temperatures soaring to over 40°C (104°F). At the time, it was the hottest place on the planet [2]
+La Niña coupling of the atmosphere and ocean alters global atmospheric circulation and can cause shifts in the path of mid-latitude jet streams in ways that intensify rainfall in some regions and bring drought to others.[3] Corrientes, which normally averages 162 millimeters (6.5 inches) of rain during February, has received less than 20 millimeters (1 inch) so far, according to the National Meteorological Service (SMN).[1]
+
+Since the fires began in December, more than 520,000 hectares (1.3 million acres) have burned, killing wildlife and livestock, decimating pasturelands, and destroying crops such as yerba mate and rice. [1] On February 7, 2022, Corrientes was declared a state of emergency and an agricultural disaster.
+
+Through the Sentinel Hub EO Browser tool with its personalized script, the wetland humidity data was related to the surface temperature, in order to prevent and be able to carry out the necessary tasks to minimize this natural disaster, which has drought and the protection of wetlands as protagonists.  
 
  ## Details of the script
  
@@ -40,5 +44,9 @@ In addition, the area analyzed from November 2021 to March 2022 is observed belo
  [1] Earthobservatory Nasa March 01 2022  [Earthobservatory.nasa.gov/Wildfires Ravage Corrientes, Argentina](https://earthobservatory.nasa.gov/images/149478/wildfires-ravage-corrientes-argentina)
  
  [2]  Earthobservatory Nasa January 11 2022, 2022[Earthobservatory.nasa.gov/Southern Hemisphere Scorchers](https://earthobservatory.nasa.gov/images/149331/southern-hemisphere-scorchers)
+ 
+ [3] Earthobservatory Nasa December 01 2021  [Earthobservatory.nasa.gov/La Niña Returns for a Second Winter]([https://earthobservatory.nasa.gov/images/149478/wildfires-ravage-corrientes-argentina](https://earthobservatory.nasa.gov/images/149201/la-nina-returns-for-a-second-winter))
+ 
+ [4] Mohor Gartner 2019 [Land Surface Temperature (LST) Mapping Script]([https://earthobservatory.nasa.gov/images/149478/wildfires-ravage-corrientes-argentina](https://github.com/sentinel-hub/custom-scripts/tree/master/landsat-8/land_surface_temperature_mapping))
 
-https://github.com/sentinel-hub/custom-scripts/tree/master/landsat-8/land_surface_temperature_mapping
+
